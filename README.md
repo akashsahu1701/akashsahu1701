@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @akashsahu1701
 - 👀 I’m interested in Coding 
+- 👀 Full Stack Developer 
 - 🌱 I’m currently learning DSA and Problem Solving
 - 💞️ I’m looking to collaborate on Reactjs
 - 📫 How to reach me? No Need.just mail me on "asahu7744@gmail.com". 
