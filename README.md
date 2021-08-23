@@ -25,7 +25,7 @@ Tech Stack I am Familiar With:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsahu1701&theme=dracula&layout=compact" />
 </a>
 
-[![Spotify](https://akashsahu1701.vercel.app/api/spotify)](https://open.spotify.com/user/akku7744)
+[![Spotify](https://akashsahu1701.vercel.app/api/spotify)](https://open.spotify.com/user/317apprr7wqtdijku35gqvmt3ghy)
 
 Contact With Me:
  [Akash Sahu](https://github.com/akashsahu1701) 
