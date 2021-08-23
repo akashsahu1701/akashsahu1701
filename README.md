@@ -22,7 +22,7 @@ Tech Stack I am Familiar With:
 
 <a href="https://github.com/chestn02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashsahu1701&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsahu1701&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsahu1701&theme=dracula&layout=compact" />
 </a>
 
 
