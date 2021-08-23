@@ -21,7 +21,7 @@ Tech Stack I am Familiar With:
 ![image](https://user-images.githubusercontent.com/70338759/118670232-0d7bb580-b814-11eb-890d-05c8de603164.png)
 
 <a href="https://github.com/chestn02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashsahu1701&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashsahu1701&theme=dracula&show_icon=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsahu1701&theme=dracula&layout=compact" />
 </a>
 
