@@ -1,18 +1,18 @@
-<h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Ciao, Hello Forks, I'm Akash ! </h1>
+<h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Ciao Forks, I'm Akash ! </h1>
 
 I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, India. I am currently pursuing my Bachelor of Engineering degree in Electronics and Communication Engineering from Netaji Subhas Institute of Technology, New Delhi.
 
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
 
-- Full Stack Developer Intern at **Google**.
+- Full Stack Developer Intern at **Infinite Locus**.
 - Former *Reactjs Developer* intern at **Humming Spparrow Digital Solutions** where I was a part of Utkarshh bharat web developer team.
 
 <br>
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saumyasingh203&count_private=true&show_icons=true&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasingh203&hide=procfile,matlab,php&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashsahu1701&count_private=true&show_icons=true&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsahu1701&hide=procfile,matlab,php&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&langs_count=8">
 
   <br>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=saumyasingh203&color=fc5a8d" />
