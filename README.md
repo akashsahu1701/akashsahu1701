@@ -15,7 +15,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsahu1701&hide=procfile,matlab,php&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&langs_count=8">
 
   <br>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=saumyasingh203&color=fc5a8d" />
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=akashsahu1701&color=fc5a8d" />
   
   
 </p>
@@ -27,7 +27,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/></code>
-<code><img width="40px" src="https://img.icons8.com/ios/344/postgreesql.png" title="PostgresSql"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/72/postgreesql.png" title="PostgresSql"/></code>
 <code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
