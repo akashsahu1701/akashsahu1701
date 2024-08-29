@@ -5,7 +5,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
 
-- **SDE-I** (Full Stack Developer) at **Infinite Locus**.
+- **SDE-II** (Full Stack Developer) at **Advice Media**.
 - Former **Reactjs Developer** intern at **Humming Spparrow Digital Solutions** where I was a part of Utkarshh bharat web developer team.
 
 <br>
